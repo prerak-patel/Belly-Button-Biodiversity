@@ -1,4 +1,4 @@
-const url = "../../data/samples.json";
+const url = "data/samples.json";
 
 var dropDownMenu = d3.select("#selDataset");
 var demographicInfo = d3.select("#sample-metadata");
